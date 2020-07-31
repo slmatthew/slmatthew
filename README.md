@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://sun1-90.userapi.com/KTBd-rN4FDzkRJupBsHj3bbY34ep970cA4-cvg/hifDrE8_sbc.jpg" alt="Это я" width=350px height=350px/>
 
-<!--
-**slmatthew/slmatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- спасибо, Гриша -->
 
-Here are some ideas to get you started:
+### Привет, это @slmatthew
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Одинокий бекенд-разработчик.
+
+Создаю ботов на заказ и занимаюсь несколькими своими проектами.
+ 
+- 🔭 Работаю над [Lister](https://github.com/listerpub) и 4 другими секретными проектами
+- 🌱 Знаю PHP и JS (+ReactJS), изучаю Java и Go
+- 📫 Можете написать мне в [Telegram](https://t.me/slmatthew) или в [VK](https://vk.me/slmatthew)
+- ✨ Больше информации на [сайте](https://slmatthew.dev)
