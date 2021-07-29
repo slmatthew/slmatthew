@@ -1,14 +1,12 @@
-<img align="right" src="https://sun1-90.userapi.com/KTBd-rN4FDzkRJupBsHj3bbY34ep970cA4-cvg/hifDrE8_sbc.jpg" alt="Это я" width=350px height=350px/>
+## Привет, это @slmatthew
 
-<!-- спасибо, Гриша -->
+Отошёл от программистких дел, но не позабыл, как тут всё делает.
 
-### Привет, это @slmatthew
+![Stats](https://github-readme-stats.vercel.app/api?username=slmatthew&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slmatthew&layout=compact)
 
-Одинокий бекенд-разработчик.
+## Проекты 🛠
+Можно посмотреть <a href="https://slmatthew.dev/" target="_blank">здесь</a>.
 
-Создаю ботов на заказ и занимаюсь несколькими своими проектами.
- 
-- 🔭 Работаю над [Lister](https://github.com/listerpub) и 4 другими секретными проектами
-- 🌱 Знаю PHP и JS (+ReactJS), изучаю Java и Go
-- 📫 Можете написать мне в [Telegram](https://t.me/slmatthew) или в [VK](https://vk.me/slmatthew)
-- ✨ Больше информации на [сайте](https://slmatthew.dev)
+## Связь со мной 💭
+- <a href="https://t.me/slmatthewfuck" target="_blank">Telegram канал</a>
+- <a href="https://t.me/slmatthew" target="_blank">Личный Telegram</a>
