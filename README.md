@@ -8,5 +8,4 @@
 Можно посмотреть <a href="https://slmatthew.dev/" target="_blank">здесь</a>.
 
 ## Связь со мной 💭
-- <a href="https://t.me/slmatthewfuck" target="_blank">Telegram канал</a>
-- <a href="https://t.me/slmatthew" target="_blank">Личный Telegram</a>
+- <a href="https://t.me/slmatthew" target="_blank">Telegram</a>
