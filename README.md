@@ -59,10 +59,6 @@ class Attributes(Matthew):
   </a>
 </p>
 
-<p href="https://discord.gg/onlp" align="center">
+<p align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=slmatthew&theme=transparent&show_icons=true">
-</p>
-
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
 </p>
