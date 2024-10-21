@@ -30,7 +30,7 @@ class Attributes(Matthew):
             'learning'    : ['go', 'c#', 'swift']
         }
         specialities  = ['backend']
-        ide           = ['vscode']
+        ide           = ['vscode', 'phpstorm']
         pc            = {
             'MacOS': {
                 'macbook air m1': {
