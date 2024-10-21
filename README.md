@@ -1,9 +1,68 @@
-## Привет, это @slmatthew
+<h2 align="center">About Me </h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=slmatthew&count_private=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slmatthew&layout=compact&theme=dark)
+```python
+from typing import Tuple, List, Dict
 
-## Проекты 🛠
-Можно посмотреть <a href="https://t.me/slmdev/10" target="_blank">здесь</a>.
+class Matthew:
+    pass
 
-## Связь со мной 💭
-- <a href="https://t.me/slmatthew" target="_blank">Telegram</a>
+class Attributes(Matthew):
+    @property
+    def contact(self) -> Tuple[str, str, str]:
+        telegram = "t.me/slmatthew"
+        channel  = "t.me/salomatu4ak"
+        email    = "me@slmatthew.ru"
+	    
+        return telegram, channel, email
+
+    @property
+    def life(self) -> Tuple[List[str], int]:
+        langs = ['Russian', 'English']
+        age   = 18
+		
+        return langs, age
+	
+    @property
+    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str]]:
+        langs = {
+            'expert'      : ['php'],
+            'intermediate': ['js'],
+            'learning'    : ['go', 'c#', 'swift']
+        }
+        specialities  = ['backend']
+        ide           = ['vscode']
+        pc            = {
+            'MacOS': {
+                'macbook air m1': {
+                    'processor': 'm1 | 8 cores',
+                    'ram'      : '8gb',
+                    'gpu'      : 'm1 | 8 cores'
+                }
+            },
+            'Windows': {
+                'custom': {
+                    'processor': 'Intel Core i5 12400 | 6 cores',
+                    'ram'      : '32gb',
+                    'gpu'      : 'nvidia 3060Ti | 4864 CUDA cores'
+                }
+            }
+        }
+
+	return langs, specialities, ide, pc
+```
+
+<h2 align="center">Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,nodejs,bots,dotnet,css,html" />
+  </a>
+</p>
+
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=slmatthew&theme=transparent&show_icons=true">
+</p>
+
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
+</p>
