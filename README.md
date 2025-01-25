@@ -1,4 +1,4 @@
-<h2 align="center">About Me </h2>
+<h2 align="center">About Me</h2>
 
 ```python
 from typing import Tuple, List, Dict
@@ -10,7 +10,7 @@ class Attributes(Matthew):
     @property
     def contact(self) -> Tuple[str, str, str]:
         telegram = "t.me/slmatthew"
-        channel  = "t.me/salomatu4ak"
+        channel  = "t.me/matu4ak"
         email    = "me@slmatthew.ru"
 	    
         return telegram, channel, email
